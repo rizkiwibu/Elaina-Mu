@@ -313,11 +313,12 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :* ʙᴏᴄʜɪʟɢᴀᴍɪɴɢ
-┴ ▸ *ᴏᴡɴᴇʀ :* ɪᴍ-ʏᴀɴxɪᴀᴏ
+│ ▸ *Chanel YouTube :* https://www.youtube.com/@RIZKIIRFAN
+│▸ * Instagram :*
+┴ ▸ *Oᴡɴᴇʀ :* Rizki wa.me/6285878836361
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
-│ ʙᴇʀɪ ᴊᴇᴅᴀ ʏᴀʜ ᴋᴀᴋ ^ω^
+│ Jangan spam ʏᴀʜ ᴋᴀᴋ kalau spam ntar aku ewe loh  ^ω^ 
 ╰━━━━━━━━━━━━━━━━┈─◂`
 const listMessage = {
   text: tek,
