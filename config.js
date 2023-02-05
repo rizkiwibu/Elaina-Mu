@@ -56,7 +56,7 @@ global.snh = 'https://www.youtube.com/@RIZKIIRFAN🗿' //Hmmm, Ini boleh kalian 
 /*============== PAYMENT ==============*/
 global.pdana = 'chat owner' //Nomor Danamu
 global.ppulsa = 'chat owner' //Nomor SimCard Yang Kamu Pake
-global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
+global.psaweria = 'https://saweria.co/Rizkiwibu' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285878836361' //Nomor Bot
